@@ -1,5 +1,3 @@
-console.log("\n %c APlayer 1.5.9 %c http://aplayer.js.org \n\n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;");
-
 require('./APlayer.scss');
 
 let instances = [];
